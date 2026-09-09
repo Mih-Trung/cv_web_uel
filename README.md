@@ -1,2 +1,2 @@
-# cv_web_uel
-web cv for uel subject
+# NOT MY REAL CV
+This repo is submission of my web subject at UEL 
